@@ -3,8 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-
-
 # Distribution / packaging
 .Python
 build/
@@ -39,12 +37,6 @@ pip-delete-this-directory.txt
 
 # pyenv
 .python-version
-
-# celery beat schedule file
-celerybeat-schedule
-
-# SageMath parsed files
-*.sage.py
 
 # Environments
 .env
